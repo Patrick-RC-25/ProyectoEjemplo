@@ -1,0 +1,50 @@
+Bootstrap: Kit de herramientas
+Trabaja con un sistema de 12 columnas
+
+label -> "form-label"
+input -> "form-control"
+botón -> "btn btn-outline-danger"
+class container dentro del div
+class row lo pone en filas
+col-md-8 para el tamaño
+margin del 1-5
+ms
+me
+mt
+mb
+
+mx margin al eje x
+my margin al eje y
+
+padding del 1-5
+ps
+pe
+pt
+pb
+
+px
+py
+
+flez-wrap para ajustar
+
+Gestión de versiones
+	Github
+Git 
+	GitLab
+La tecnología es Git
+El código se guarda en GitHub o GitLab
+
+Git tiene 3 partes
+Todo esto es de manera local
+Área de trabajo -> git add ->
+Área de preparación -> git commit ->
+Área de repositorio
+
+En el GitHub ya es remoto
+Para llevarlo del área de repositorio al GitHub es el comando git push
+
+Git Cheat Sheet
+
+Ramas
+La rama principal es el main
+README: Archivo en el cual deben estar las instrucciones para que cualquier persona pueda usar el repositorio
